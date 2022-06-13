@@ -1,5 +1,5 @@
 ### Hi, I'm Yunan 👋
 
 - ⚡ C++ / Python / Golang / Scala / Shell
-- ✍️ [Blogger](https://yunan.xyz)
+- ✍️ [Blog](https://yunan.xyz)
 - ❤️ Hiking / Camping
